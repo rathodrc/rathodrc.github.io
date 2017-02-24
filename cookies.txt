@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.creativecommons.org	TRUE	/	FALSE	1999999999	__cfduid	d59a331c946c75fb7093a1a35e8a7c0691480488921
+.licensebuttons.net	TRUE	/	FALSE	1999999999	__cfduid	d04bbfef93b9e9d3b0816b644eaa0c6a71480488923
+gist.github.com	TRUE	/	FALSE	1999999999	_gh_sess	eyJzZXNzaW9uX2lkIjoiNDg2Yjk0OTBmYTJkMGNmZmM4MWY5ZWFlNWFlOTJlYmMiLCJyZWZlcnJhbF9jb2RlIjoiaHR0cDovL2tpc2hhbnRob2JoYW5pLmNvbS9wb3N0cy9zcG90aWZ5Lmh0bWwifQ%3D%3D--88e83fcfc75e1c25cbf47adb6b49a4db775d4fe0
+
